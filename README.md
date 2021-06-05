@@ -19,4 +19,4 @@ This command will use port 3000 and open up the app in your default browser.
 
 - Once the app is running on a browser, the app is now usable =)
 
-- To stop app, go back to your CLI window and type shift+c, then press enter
+- To stop app, go back to your CLI window, press shift+c, and then press enter
