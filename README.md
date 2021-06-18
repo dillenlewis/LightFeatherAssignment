@@ -1,6 +1,15 @@
-# LightFeatherAssignment
-Takehome Assignment for Lightfeather
+# Simple Form using React
+This application is a simple form that uses React to biuld and operate all of its functions.
 
+List of freatures:
+  -Creates a form with the fields First Name, Last Name, Email, Phone Number, and a dropdown nemu called Supervisors
+  -Takes a list of names from one endpoint, and poputates the dropdown menu with those names
+  -Using checkboxes, allows the user to enter either their email or phone number, with the interest of the user having a choice in how they wish to be contacted
+  -Checks for validation, then the form response is submitted to another API endpoint
+
+
+
+# Installation
 - After downloading files to your computer, find and open LightFeatherAssignment folder. There should be a client folder, and a Readme.md, which is this file
 
 - Right click on the client folder and select open in comand prompt/windows terminal/git bash which ever command line interface you use
