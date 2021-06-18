@@ -1,7 +1,7 @@
 # Simple Form using React
 This application is a simple form that uses React to biuld and operate all of its functions.
 
-List of freatures:
+List of features:
   - Creates a form with the fields First Name, Last Name, Email, Phone Number, and a dropdown nemu called Supervisors
   - Takes a list of names from one endpoint, and poputates the dropdown menu with those names
   - Using checkboxes, allows the user to enter either their email or phone number, with the interest of the user having a choice in how they wish to be contacted
