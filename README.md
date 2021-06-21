@@ -10,11 +10,11 @@ List of features:
 
 
 # Installation
-- After downloading files to your computer, find and open LightFeatherAssignment folder. There should be a client folder, and a Readme.md, which is this file
+- After downloading files to your computer, find and open React-Form folder. There should be a client folder, and a Readme.md, which is this file
 
 - Right click on the client folder and select open in comand prompt/windows terminal/git bash which ever command line interface you use
 
-Alternatively, open your command line interface and change the working directory to the client folder  (ex.....LightFeatherAssignment\client>)
+Alternatively, open your command line interface and change the working directory to the client folder  (ex.....React-Form\client>)
 
 - One you are in the client directory, type npm install and press enter
 
